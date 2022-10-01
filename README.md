@@ -2,7 +2,7 @@
 - 👀 I’m interested in Backend Development and Database Management
 - 🌱 I’m currently learning Data Structure & Algorithim
 - 💞️ I’m always looking to collaborate 
-- 📫 You can reach me at [@kArtik-35](https://github.com/KArtik-35), https://www.linkedin.com/in/kartikay-patni-73b336204/
+- 📫 You can reach me at @Kartikay https://www.linkedin.com/in/kartikaypatni
 -
 
 <!---
